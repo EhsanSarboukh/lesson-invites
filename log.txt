@@ -1,0 +1,2 @@
+2025-08-29T16:23:21.581Z - Teacher 1 invited Student 1
+2025-08-29T16:28:26.590Z - Student 1 accepted invite 1
